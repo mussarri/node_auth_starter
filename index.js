@@ -28,5 +28,5 @@ app.use(cookieParser());
 app.use("/auth", authRouter);
 
 app.listen(PORT, () => {
-  console.log(`app listening on port ${4000}`);
+  console.log(`app listening on port ${PORT}`);
 });
