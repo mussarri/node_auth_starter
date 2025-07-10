@@ -50,9 +50,9 @@ npm run dev
 ```
 
 🔐 API Endpoints
-POST /auth/register
-POST /auth/login
-GET  /auth/logout
+POST /auth/register<br> 
+POST /auth/login<br> 
+GET  /auth/logout<br> 
 GET  /auth/refresh
 
 
