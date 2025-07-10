@@ -30,7 +30,7 @@ Includes user registration, login, protected routes, and token-based access cont
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/yourusername/auth-backend.git
+git clone https://github.com/mussarri/node_auth_starter.git
 cd auth-backend
 npm install
 ```
