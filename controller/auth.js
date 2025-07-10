@@ -5,7 +5,7 @@ import "dotenv/config";
 
 const salt = bcrypt.genSaltSync(10);
 
-const secretAccess = process.env.SECRET_ACTIVE;
+const secretAccess = process.env.SECRET_ACCESS;
 
 const secretRefresh = process.env.SECRET_REFRESH;
 
