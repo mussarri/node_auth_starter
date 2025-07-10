@@ -49,7 +49,7 @@ SECRET_REFRESH=your_refresh_secret_key
 npm run dev
 ```
 
-🔐 API Endpoints
+🔐 API Endpoints<br> 
 POST /auth/register<br> 
 POST /auth/login<br> 
 GET  /auth/logout<br> 
