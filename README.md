@@ -31,7 +31,7 @@ Includes user registration, login, protected routes, and token-based access cont
 
 ```bash
 git clone https://github.com/mussarri/node_auth_starter.git
-cd auth-backend
+cd node_auth_starter
 npm install
 ```
 
